@@ -1,2 +1,3 @@
-# status-monitoring
-Check GTA Online status of your colleagues 
+# Metrics
+
+Collect and visualize metrics from our modules.
